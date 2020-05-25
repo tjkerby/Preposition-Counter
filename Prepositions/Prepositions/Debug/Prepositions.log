@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\tjker\source\repos\prepositions\prepositions\main.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\tjker\source\repos\prepositions\prepositions\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\tjker\source\repos\prepositions\prepositions\main.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\tjker\source\repos\prepositions\prepositions\main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\tjker\source\repos\prepositions\prepositions\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\tjker\source\repos\prepositions\prepositions\main.cpp(111): warning C4018: '<': signed/unsigned mismatch
+  Prepostions.cpp
+c:\users\tjker\source\repos\prepositions\prepositions\prepostions.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Prepositions.vcxproj -> C:\Users\tjker\source\repos\Prepositions\Debug\Prepositions.exe
